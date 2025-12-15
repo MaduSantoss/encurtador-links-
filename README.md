@@ -37,14 +37,11 @@ python encurtador.py
 
 4. Cole a URL gigante quando solicitado e receba a versão encurtada.
 
-##📝 Exemplo de Uso```text
-Cole aqui sua URL gigante: [https://www.google.com/search?q=python+developer+roadmap](https://www.google.com/search?q=python+developer+roadmap)
+##📝 Exemplo de Uso
+Cole aqui sua URL gigante: [https://www.google.com/search?q=python+developer+roadmap]
 Encurtando...
 Link curto: [http://tinyurl.com/2xt8z8](http://tinyurl.com/2xt8z8)
 
 
-
 ##👩‍💻 Autora
 Desenvolvido durante estudos de Python, com foco em consumo de APIs e automação de tarefas.
-
-```
